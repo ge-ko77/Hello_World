@@ -8,7 +8,7 @@ public class Text {
 		System.out.println(x);
 		// Prints Text to Console
 		x++;
-		//sans is best skeletor
+		//prapyis is best skeletor
 		//reeeeee*566
 		}
 		
