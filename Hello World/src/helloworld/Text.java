@@ -9,6 +9,7 @@ public class Text {
 		// Prints Text to Console
 		x++;
 		//sans is best skeletor
+		//reeeeee*566
 		}
 		
 	} 
