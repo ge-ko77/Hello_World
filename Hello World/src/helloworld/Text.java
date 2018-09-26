@@ -6,7 +6,7 @@ public class Text {
 		int x=0;
 		while (x<102) {
 		System.out.println(x);
-		//lukes change
+		//Noah's change
 		
 		
 		}
