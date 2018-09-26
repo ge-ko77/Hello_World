@@ -6,10 +6,9 @@ public class Text {
 		int x=0;
 		while (x<102) {
 		System.out.println(x);
-		// Prints Text to Console
 		x++;
 		//sans is worst font
-		//reeeeee*566
+		//Noah's change
 		}
 		
 	} 
