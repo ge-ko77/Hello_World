@@ -9,6 +9,7 @@ public class Text {
 		x++;
 		
 		//Noah's change sucks
+		//agreed
 		}
 		
 	} 
