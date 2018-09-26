@@ -7,7 +7,7 @@ public class Text {
 		while (x<102) {
 		System.out.println(x);
 		x++;
-		//sans is worst font
+		
 		//Noah's change
 		}
 		
