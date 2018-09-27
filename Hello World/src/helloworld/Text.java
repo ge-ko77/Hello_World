@@ -8,7 +8,7 @@ public class Text {
 		System.out.println(x);
 		x++;
 		
-		//Noah's change sucks
+		//Sam's change sucks
 		//agreed
 		}
 		
